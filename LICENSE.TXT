@@ -1,0 +1,21 @@
+
+                                    LMIT
+                 License Massachusetts Institute Technology
+                    Copyright (C) 1991-2024 Fábio Santos
+
+----------------------------------------------------------------------------
+
+ Todos os códigos, são protegidos exclusivamente por direitos autorais, lei
+ de propriedade intelectual, não podem ser vendidos. Você tem direito legal
+ de usar, copiar, modificar e distribuir como desejar, para desenvolvimento
+ de projetos, desde que concorde com os termos de uso e garantia.
+
+ Os códigos @Fabasa-Pro são sempre fornecidos "COMO ESTÃO", sem garantia de
+ qualquer tipo. O AUTOR SE ISENTA DE GARANTIAS, EXPRESSAS E IMPLÍCITAS, MAS
+ NÃO ÀS GARANTIAS DE COMERCIALIZAÇÃO para as jurisdições que não permitem a
+ exclusão ou limitações de garantias implícitas, portanto, as limitações ou
+ as exclusões acima podem não se aplicar mesmo que previamente comunicadas,
+ onde o 'AUTOR' também não será responsável por quaisquer danos resultantes
+ de uso modificado, cópias ou distribuições.
+
+----------------------------------------------------------------------------
